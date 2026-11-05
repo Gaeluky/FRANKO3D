@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 14,
+    "left": 0,
+    "width": 610,
+    "height": 813,
+    "isRotated": false,
+    "originalWidth": 610,
+    "originalHeight": 842
+  },
+  "imagePath": "image-targets/francofoto_luminance.png",
+  "metadata": null,
+  "name": "francofoto",
+  "resources": {
+    "originalImage": "francofoto_original.png",
+    "croppedImage": "francofoto_cropped.png",
+    "thumbnailImage": "francofoto_thumbnail.png",
+    "luminanceImage": "francofoto_luminance.png"
+  },
+  "created": 1793916144849,
+  "updated": 1793916144849
+}
